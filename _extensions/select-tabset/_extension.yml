@@ -1,0 +1,8 @@
+title: Select tabset
+author: Jakob Listabarth
+version: 1.0.0
+quarto-required: ">=1.4.0"
+contributes:
+  filters:
+    - select-tabset.lua
+
