@@ -40,6 +40,9 @@ Additionally, a custom label for the select can be defined via a `option-label` 
 :::
 ```
 
+## Odd behaviour
+When adding code after the last `panel-select` class, the `qmd` will not compile.
+
 ## Example
 
 Here is the source code for a minimal example: [example.qmd](example.qmd).
